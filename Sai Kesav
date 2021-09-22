@@ -1,0 +1,20 @@
+CV : R.Sai Kesav, M.Tech graduated at July 2021, Contact : rachakondasaikesav@gmail.com
+Public Profile : https://www.linkedin.com/in/rachakonda-sai-kesav-71016a143/, Total Experience 0.5 years.
+Education : B.Tech in Mechanical Engineering from SRM Institute of Science and Technology, Chennai.
+            M.Tech in Computational Engineering and Networking (Data Science) from Amrita University.
+Skills : Python, Matlab, Tableau.
+Projects in M.Tech : 
+1 . "Ink Recognition using TDNN and Bi-LSTM" : Recognition of online handwritten characters for english using a combined architecture of TDNN and
+Bi-LSTM using a less word corpora. For achieving a better recognition rate smoothing algorithms were
+implemented.
+2. "Dependency Parser for Hindi using Integer Linear Programming" : An introductory level of dependency parser for Hindi using Paninian Grammar aesthetics, by convexifying the input taken in form of integers and to establish a dependency between the words in a Hindi
+sentence.
+3. "Using Deep Learning architecture for PCG classification using Spectrogram" : Implementing a CNN architecture for classifying multiple PCG signals converted into spectrograms,
+without any trivial pre-processing techniques.
+
+Publications : 
+1. R Sai Kesav, Premjith B, Soman K P, Dependency Parser for Hindi using Integer Linear Programming, International Conference on Advances in Computing and Data Sciences2021, (Accepted & Presented).
+2. R Sai Kesav, Bhanu Prakash M, Krishanth Kumar, Sowmya V, Soman K P, Using Deep Learning Architectures for Phonocardiogram Signal Classification using Spectrogram, International Conference on Advances in Computing and Data Sciences2021, (Accepted & Presented).
+3. R Sai Kesav, Barathi Ganesh HB, Premjith B, Soman K P, Ink Recognition using TDNN and BiLSTM, International Conference on Computer Vision, High Performance Computing, Smart Devices and Networks 2021, (Accepted & Presented).
+
+Certifications : Tableau Desktop Certified Professional; Natural Language Processing using Python; AI for Medical Diagnosis.
